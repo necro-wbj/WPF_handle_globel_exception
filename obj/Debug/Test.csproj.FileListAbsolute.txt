@@ -1,0 +1,14 @@
+D:\minecraft\Test\obj\Debug\MainWindow.g.cs
+D:\minecraft\Test\obj\Debug\App.g.cs
+D:\minecraft\Test\obj\Debug\MainWindow.baml
+D:\minecraft\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\minecraft\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\minecraft\Test\bin\Debug\handle_globel_exception.exe.config
+D:\minecraft\Test\bin\Debug\handle_globel_exception.exe
+D:\minecraft\Test\bin\Debug\handle_globel_exception.pdb
+D:\minecraft\Test\obj\Debug\handle_globel_exception_MarkupCompile.cache
+D:\minecraft\Test\obj\Debug\handle_globel_exception_MarkupCompile.lref
+D:\minecraft\Test\obj\Debug\handle_globel_exception.g.resources
+D:\minecraft\Test\obj\Debug\handle_globel_exception.Properties.Resources.resources
+D:\minecraft\Test\obj\Debug\handle_globel_exception.exe
+D:\minecraft\Test\obj\Debug\handle_globel_exception.pdb
